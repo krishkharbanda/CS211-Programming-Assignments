@@ -1,0 +1,257 @@
+32
+RESTOCK 26 Icedancer
+RESTOCK 34 Heaven or Las Vegas
+SHOW_STOCK 0 Icedancer
+SHOW_STOCK 0 Icedancer
+RESTOCK 43 Grace
+SALE 47 Grace
+SALE 18 Grace
+RESTOCK 23 Vespertine
+RESTOCK 38 Grace
+SHOW_STOCK 0 Heaven or Las Vegas
+RESTOCK 41 Dummy
+RESTOCK 14 Stratosphere
+SALE 13 Icedancer
+RESTOCK 23 Icedancer
+SALE 1 Vespertine
+RESTOCK 20 Voulez-Vous
+SALE 5 Icedancer
+RESTOCK 28 10,000 gecs
+RESTOCK 41 In Utero
+RESTOCK 44 In Utero
+RESTOCK 33 10,000 gecs
+RESTOCK 35 KiCk i
+RESTOCK 1 KiCk i
+RESTOCK 1 Post
+RESTOCK 34 KiCk iiiii
+SHOW_STOCK 0 Dummy
+RESTOCK 10 Wlfgrl
+RESTOCK 1 Voulez-Vous
+SALE 9 Voulez-Vous
+RESTOCK 40 Bleach
+SALE 32 Icedancer
+RESTOCK 19 MAGDALENE
+SHOW_STOCK 0 Icedancer
+SALE 42 Stratosphere
+RESTOCK 47 Stratosphere
+SALE 36 Bleach
+SALE 25 KiCk i
+SHOW_STOCK 0 Wlfgrl
+RESTOCK 3 SAWAYAMA
+SALE 25 10,000 gecs
+RESTOCK 50 Back to Black
+RESTOCK 28 Post
+RESTOCK 41 In Utero
+SALE 19 KiCk i
+RESTOCK 47 how i'm feeling now
+RESTOCK 34 Vespertine
+SALE 22 SAWAYAMA
+RESTOCK 9 how i'm feeling now
+SALE 5 Dummy
+RESTOCK 15 Post
+RESTOCK 14 Bleach
+SALE 41 SAWAYAMA
+SALE 45 KiCk iiiii
+SALE 16 Grace
+SALE 47 Voulez-Vous
+SALE 22 how i'm feeling now
+RESTOCK 11 Wlfgrl
+SALE 16 Stratosphere
+RESTOCK 32 Icedancer
+RESTOCK 21 10,000 gecs
+RESTOCK 25 KiCk i
+RESTOCK 41 Random Access Memories
+SALE 29 SAWAYAMA
+RESTOCK 29 KiCk ii
+RESTOCK 26 KiCk iiii
+RESTOCK 44 SAWAYAMA
+SALE 5 SAWAYAMA
+RESTOCK 44 Back to Black
+RESTOCK 19 Voulez-Vous
+SALE 25 Stratosphere
+RESTOCK 25 Dummy
+RESTOCK 14 In Utero
+SALE 14 Stratosphere
+SALE 10 Grace
+SHOW_STOCK 0 SAWAYAMA
+SALE 45 KiCk ii
+RESTOCK 23 Debut
+SALE 39 Voulez-Vous
+RESTOCK 35 Icedancer
+RESTOCK 32 Dummy
+RESTOCK 40 Back to Black
+SALE 8 SAWAYAMA
+SALE 47 KiCk i
+RESTOCK 47 Dummy
+RESTOCK 41 Icedancer
+SALE 28 Debut
+RESTOCK 33 Stratosphere
+SALE 21 KiCk iiii
+SHOW_STOCK 0 Heaven or Las Vegas
+SALE 22 Wlfgrl
+SALE 34 Back to Black
+RESTOCK 18 Back to Black
+RESTOCK 46 Grace
+RESTOCK 14 Voulez-Vous
+RESTOCK 17 Grace
+SALE 47 Voulez-Vous
+RESTOCK 49 Voulez-Vous
+SALE 45 how i'm feeling now
+RESTOCK 13 Dummy
+RESTOCK 8 Grace
+SALE 4 In Utero
+SHOW_STOCK 0 Debut
+SHOW_STOCK 0 KiCk iiiii
+SHOW_STOCK 0 Vespertine
+RESTOCK 37 Dummy
+SALE 25 Dummy
+SALE 7 Post
+RESTOCK 36 Bleach
+RESTOCK 2 Icedancer
+RESTOCK 19 Heaven or Las Vegas
+SALE 43 Back to Black
+RESTOCK 13 Heaven or Las Vegas
+RESTOCK 30 Wlfgrl
+RESTOCK 8 Vulnicura
+SALE 23 KiCk iiiii
+SALE 45 In Utero
+RESTOCK 3 10,000 gecs
+SALE 45 Dummy
+RESTOCK 1 10,000 gecs
+SALE 25 MAGDALENE
+SALE 9 Vespertine
+RESTOCK 44 Heaven or Las Vegas
+SALE 4 KiCk i
+RESTOCK 16 Bleach
+RESTOCK 20 how i'm feeling now
+SALE 41 KiCk ii
+SHOW_STOCK 0 Vespertine
+RESTOCK 4 SAWAYAMA
+RESTOCK 45 Debut
+RESTOCK 10 KiCk iiiii
+SALE 26 Bleach
+RESTOCK 49 Dummy
+SALE 12 Dummy
+SALE 24 how i'm feeling now
+SHOW_STOCK 0 Vulnicura
+SALE 7 Icedancer
+RESTOCK 15 Voulez-Vous
+SHOW_STOCK 0 Icedancer
+RESTOCK 43 Back to Black
+RESTOCK 23 Voulez-Vous
+SHOW_STOCK 0 Heaven or Las Vegas
+SHOW_STOCK 0 Bleach
+RESTOCK 19 Nevermind
+SALE 31 Dummy
+SALE 18 Nevermind
+SALE 30 SAWAYAMA
+SALE 47 Vulnicura
+SHOW_STOCK 0 KiCk iiiii
+SALE 17 Wlfgrl
+RESTOCK 46 Grace
+SHOW_STOCK 0 Icedancer
+SALE 14 KiCk iiiii
+RESTOCK 28 Nevermind
+RESTOCK 11 KiCk iiiii
+RESTOCK 46 KiCk i
+RESTOCK 12 Icedancer
+RESTOCK 30 10,000 gecs
+RESTOCK 4 how i'm feeling now
+SALE 1 Back to Black
+SALE 19 Voulez-Vous
+RESTOCK 42 10,000 gecs
+SHOW_STOCK 0 Grace
+RESTOCK 4 SAWAYAMA
+SALE 5 KiCk i
+RESTOCK 6 Debut
+RESTOCK 16 Vulnicura
+RESTOCK 27 Grace
+RESTOCK 35 KiCk iiii
+RESTOCK 23 Vulnicura
+SALE 38 Voulez-Vous
+RESTOCK 23 KiCk i
+RESTOCK 6 Bleach
+SHOW_STOCK 0 Stratosphere
+RESTOCK 47 KiCk iiii
+SALE 30 KiCk iiii
+SALE 40 how i'm feeling now
+RESTOCK 23 KiCk iiii
+SALE 27 Icedancer
+SALE 0 Stratosphere
+SHOW_STOCK 0 KiCk ii
+SALE 18 KiCk iiiii
+RESTOCK 6 Vespertine
+RESTOCK 39 Nevermind
+SALE 45 KiCk ii
+SALE 17 MAGDALENE
+RESTOCK 4 Charli
+SHOW_STOCK 0 SAWAYAMA
+SALE 15 10,000 gecs
+RESTOCK 43 KiCk iiiii
+RESTOCK 9 Vespertine
+SALE 9 Icedancer
+SALE 47 In Utero
+RESTOCK 23 KiCk ii
+RESTOCK 35 Stratosphere
+RESTOCK 38 Bleach
+RESTOCK 43 10,000 gecs
+RESTOCK 35 KiCk ii
+RESTOCK 21 Icedancer
+SALE 26 Vulnicura
+RESTOCK 1 Bleach
+SALE 38 Grace
+RESTOCK 18 Icedancer
+RESTOCK 23 10,000 gecs
+RESTOCK 35 Nevermind
+SALE 21 Icedancer
+RESTOCK 12 KiCk i
+SALE 1 KiCk i
+RESTOCK 34 how i'm feeling now
+SALE 50 In Utero
+SALE 24 In Utero
+SALE 38 MAGDALENE
+RESTOCK 1 Vespertine
+SALE 36 SAWAYAMA
+SHOW_STOCK 0 Grace
+SALE 3 Grace
+SHOW_STOCK 0 MAGDALENE
+RESTOCK 34 KiCk iiii
+SALE 30 KiCk iiii
+SALE 4 Bleach
+RESTOCK 47 Back to Black
+SALE 50 Back to Black
+RESTOCK 49 Random Access Memories
+SALE 23 how i'm feeling now
+RESTOCK 39 KiCk ii
+RESTOCK 38 KiCk i
+RESTOCK 18 Vespertine
+RESTOCK 14 KiCk iiii
+SHOW_STOCK 0 Stratosphere
+SALE 36 KiCk iiii
+SALE 4 Vespertine
+RESTOCK 23 KiCk iiiii
+RESTOCK 21 Voulez-Vous
+SALE 11 Post
+RESTOCK 15 Grace
+SALE 29 Grace
+RESTOCK 25 how i'm feeling now
+RESTOCK 35 Charli
+SALE 21 Charli
+RESTOCK 32 Wlfgrl
+SALE 40 KiCk iiiii
+SALE 18 KiCk iiii
+SHOW_STOCK 0 KiCk iiiii
+SALE 31 how i'm feeling now
+RESTOCK 13 Debut
+SHOW_STOCK 0 10,000 gecs
+RESTOCK 49 how i'm feeling now
+SALE 18 Stratosphere
+RESTOCK 19 Dummy
+RESTOCK 15 Charli
+SALE 32 Wlfgrl
+SHOW_STOCK 0 KiCk i
+SALE 35 Voulez-Vous
+SHOW_STOCK 0 Wlfgrl
+RESTOCK 31 10,000 gecs
+SALE 5 Back to Black
+RESTOCK 23 KiCk iiii

@@ -1,0 +1,12 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     euclidEuler
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _isPerfectNumber, symObjAddr: 0x0, symBinAddr: 0x100003900, symSize: 0xA0 }
+  - { offsetInCU: 0x3B, offset: 0x3B, size: 0x8, addend: 0x0, symName: _.str, symObjAddr: 0x560, symBinAddr: 0x100003EC0, symSize: 0x0 }
+  - { offsetInCU: 0x66, offset: 0x66, size: 0x8, addend: 0x0, symName: _.str.1, symObjAddr: 0x580, symBinAddr: 0x100003EE0, symSize: 0x0 }
+  - { offsetInCU: 0x83, offset: 0x83, size: 0x8, addend: 0x0, symName: _.str.2, symObjAddr: 0x5A0, symBinAddr: 0x100003F00, symSize: 0x0 }
+  - { offsetInCU: 0xA0, offset: 0xA0, size: 0x8, addend: 0x0, symName: _.str.3, symObjAddr: 0x5C0, symBinAddr: 0x100003F20, symSize: 0x0 }
+  - { offsetInCU: 0xB5, offset: 0xB5, size: 0x8, addend: 0x0, symName: _isPerfectNumber, symObjAddr: 0x0, symBinAddr: 0x100003900, symSize: 0xA0 }
+  - { offsetInCU: 0x107, offset: 0x107, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xA0, symBinAddr: 0x1000039A0, symSize: 0x420 }
+...

@@ -1,0 +1,81 @@
+Current stock of Icedancer: 26
+Current stock of Icedancer: 26
+Not enough stock of Grace
+Current stock of Heaven or Las Vegas: 34
+Current stock of Dummy: 41
+Not enough stock of Icedancer
+Current stock of Icedancer: 31
+Not enough stock of Stratosphere
+Current stock of Wlfgrl: 10
+Resizing the table from 32 to 64
+Not enough stock of KiCk i
+Not enough stock of SAWAYAMA
+Not enough stock of SAWAYAMA
+Not enough stock of KiCk iiiii
+Not enough stock of Voulez-Vous
+Not enough stock of SAWAYAMA
+Current stock of SAWAYAMA: 42
+Not enough stock of KiCk ii
+Not enough stock of Voulez-Vous
+Not enough stock of KiCk i
+Not enough stock of Debut
+Current stock of Heaven or Las Vegas: 34
+Not enough stock of Wlfgrl
+Not enough stock of Voulez-Vous
+Not enough stock of how i'm feeling now
+Current stock of Debut: 23
+Current stock of KiCk iiiii: 34
+Current stock of Vespertine: 56
+Not enough stock of MAGDALENE
+Not enough stock of KiCk ii
+Current stock of Vespertine: 47
+Current stock of Vulnicura: 8
+Current stock of Icedancer: 134
+Current stock of Heaven or Las Vegas: 110
+Current stock of Bleach: 44
+Not enough stock of Vulnicura
+Current stock of KiCk iiiii: 21
+Current stock of Icedancer: 134
+Current stock of Grace: 154
+Current stock of Stratosphere: 39
+Not enough stock of how i'm feeling now
+Current stock of KiCk ii: 29
+Not enough stock of KiCk ii
+Current stock of SAWAYAMA: 12
+Not enough stock of In Utero
+Not enough stock of MAGDALENE
+Not enough stock of SAWAYAMA
+Current stock of Grace: 143
+Current stock of MAGDALENE: 2
+Current stock of Stratosphere: 74
+Current stock of KiCk iiiii: 26
+Current stock of 10,000 gecs: 184
+Current stock of KiCk i: 145
+Current stock of Wlfgrl: 34
+-------- FINAL COUNTS --------
+Icedancer: 128
+Heaven or Las Vegas: 110
+Grace: 126
+Vespertine: 77
+Dummy: 145
+Stratosphere: 56
+Voulez-Vous: 61
+10,000 gecs: 215
+In Utero: 20
+KiCk i: 145
+Post: 26
+KiCk iiiii: 26
+Wlfgrl: 34
+Bleach: 85
+MAGDALENE: 2
+SAWAYAMA: 12
+Back to Black: 109
+how i'm feeling now: 88
+Random Access Memories: 90
+KiCk ii: 126
+KiCk iiii: 67
+Debut: 87
+Vulnicura: 21
+Nevermind: 103
+Charli: 33
+------------------------------

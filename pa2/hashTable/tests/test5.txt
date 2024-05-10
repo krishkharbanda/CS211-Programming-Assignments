@@ -1,0 +1,65 @@
+8
+RESTOCK 46 Stratosphere
+SALE 3 Stratosphere
+RESTOCK 26 KiCk ii
+RESTOCK 39 Debut
+RESTOCK 37 Future Nostalgia
+RESTOCK 8 Vespertine
+SHOW_STOCK 0 Vespertine
+SHOW_STOCK 0 Debut
+SALE 38 KiCk ii
+RESTOCK 37 Charli
+SALE 18 Debut
+RESTOCK 22 Post
+SALE 26 Vespertine
+RESTOCK 47 KiCk ii
+SALE 3 Vespertine
+RESTOCK 5 Debut
+RESTOCK 3 Random Access Memories
+RESTOCK 14 Future Nostalgia
+RESTOCK 2 KiCk ii
+SALE 14 Vespertine
+RESTOCK 24 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 41 Dummy
+SALE 48 Stratosphere
+RESTOCK 40 EXETER
+SALE 46 KiCk ii
+SALE 21 Dummy
+RESTOCK 39 Random Access Memories
+RESTOCK 11 Post
+RESTOCK 18 Dummy
+SALE 43 Dummy
+RESTOCK 49 Stratosphere
+RESTOCK 7 Stratosphere
+RESTOCK 15 Fossora
+RESTOCK 15 Vespertine
+SALE 19 Vespertine
+RESTOCK 20 Debut
+SHOW_STOCK 0 Random Access Memories
+RESTOCK 48 Fossora
+SALE 46 KiCk ii
+RESTOCK 43 Future Nostalgia
+RESTOCK 50 Post
+SALE 29 EXETER
+RESTOCK 16 Stratosphere
+RESTOCK 24 KiCk ii
+SALE 48 Random Access Memories
+SALE 44 Vespertine
+SALE 1 Debut
+SALE 48 Charli
+RESTOCK 50 The OOZ
+RESTOCK 25 Vespertine
+RESTOCK 20 Future Nostalgia
+RESTOCK 32 Debut
+SALE 5 Fossora
+SHOW_STOCK 0 Vespertine
+RESTOCK 18 Back to Black
+RESTOCK 1 Charli
+RESTOCK 22 Icedancer
+RESTOCK 41 The OOZ
+RESTOCK 21 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 22 The OOZ
+SHOW_STOCK 0 Vespertine
+RESTOCK 25 Icedancer
+SALE 1 Dummy
+SALE 37 Vespertine

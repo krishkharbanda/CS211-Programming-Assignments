@@ -1,0 +1,167 @@
+input [1:0]  read_address;
+
+input       line_0_valid;
+input [1:0] line_0_tag;
+input [7:0] line_0_block;
+
+input       line_1_valid;
+input [1:0] line_1_tag;
+input [7:0] line_1_block;
+
+input       line_2_valid;
+input [1:0] line_2_tag;
+input [7:0] line_2_block;
+
+input       line_3_valid;
+input [1:0] line_3_tag;
+input [7:0] line_3_block;
+
+output       read_hit;
+output [7:0] read_byte;
+
+wire line_0_match;
+wire line_1_match;
+wire line_2_match;
+wire line_3_match;
+wire line_0_valid_match;
+wire line_1_valid_match;
+wire line_2_valid_match;
+wire line_3_valid_match;
+
+wire first;
+wire second;
+
+assign first = read_address[0] ~^ line_0_tag[0];
+assign second = read_address[1] ~^ line_0_tag[1];
+assign line_0_match = first & second;
+assign line_0_match = line_0_match & line_0_valid;
+
+assign first = read_address[0] ~^ line_1_tag[0];
+assign second = read_address[1] ~^ line_1_tag[1];
+assign line_1_match = first & second;
+assign line_1_match = line_1_match & line_1_valid;
+
+assign first = read_address[0] ~^ line_2_tag[0];
+assign second = read_address[1] ~^ line_2_tag[1];
+assign line_2_match = first & second;
+assign line_2_match = line_2_match & line_2_valid;
+
+assign first = read_address[0] ~^ line_3_tag[0];
+assign second = read_address[1] ~^ line_3_tag[1];
+assign line_3_match = first & second;
+assign line_3_match = line_3_match & line_3_valid;
+
+assign read_hit = line_0_match | line_1_match;
+assign read_hit = read_hit | line_2_match;
+assign read_hit = read_hit | line_3_match;
+
+assign line_0_valid_match = ~ line_0_match;
+assign line_1_valid_match = ~ line_1_match;
+assign line_2_valid_match = ~ line_2_match;
+assign line_3_valid_match = ~ line_3_match;
+
+assign read_byte[0] = line_0_match;
+assign read_byte[1] = line_0_match;
+assign read_byte[2] = line_0_match;
+assign read_byte[3] = line_0_match;
+assign read_byte[4] = line_0_match;
+assign read_byte[5] = line_0_match;
+assign read_byte[6] = line_0_match;
+assign read_byte[7] = line_0_match;
+
+assign first = line_1_valid_match & read_byte[0];
+assign second = line_1_match & line_1_block[0];
+assign read_byte[0] = first | second;
+assign first = line_1_valid_match & read_byte[1];
+assign second = line_1_match & line_1_block[1];
+assign read_byte[1] = first | second;
+assign first = line_1_valid_match & read_byte[2];
+assign second = line_1_match & line_1_block[2];
+assign read_byte[2] = first | second;
+assign first = line_1_valid_match & read_byte[3];
+assign second = line_1_match & line_1_block[3];
+assign read_byte[3] = first | second;
+assign first = line_1_valid_match & read_byte[4];
+assign second = line_1_match & line_1_block[4];
+assign read_byte[4] = first | second;
+assign first = line_1_valid_match & read_byte[5];
+assign second = line_1_match & line_1_block[5];
+assign read_byte[5] = first | second;
+assign first = line_1_valid_match & read_byte[6];
+assign second = line_1_match & line_1_block[6];
+assign read_byte[6] = first | second;
+assign first = line_1_valid_match & read_byte[7];
+assign second = line_1_match & line_1_block[7];
+assign read_byte[7] = first | second;
+assign first = line_2_valid_match & read_byte[0];
+assign second = line_2_match & line_2_block[0];
+assign read_byte[0] = first | second;
+assign first = line_2_valid_match & read_byte[1];
+assign second = line_2_match & line_2_block[1];
+assign read_byte[1] = first | second;
+assign first = line_2_valid_match & read_byte[2];
+assign second = line_2_match & line_2_block[2];
+assign read_byte[2] = first | second;
+assign first = line_2_valid_match & read_byte[3];
+assign second = line_2_match & line_2_block[3];
+assign read_byte[3] = first | second;
+assign first = line_2_valid_match & read_byte[4];
+assign second = line_2_match & line_2_block[4];
+assign read_byte[4] = first | second;
+assign first = line_2_valid_match & read_byte[5];
+assign second = line_2_match & line_2_block[5];
+assign read_byte[5] = first | second;
+assign first = line_2_valid_match & read_byte[6];
+assign second = line_2_match & line_2_block[6];
+assign read_byte[6] = first | second;
+assign first = line_2_valid_match & read_byte[7];
+assign second = line_2_match & line_2_block[7];
+assign read_byte[7] = first | second;
+assign first = line_0_valid_match & read_byte[0];
+assign second = line_0_match & line_0_block[0];
+assign read_byte[0] = first | second;
+assign first = line_0_valid_match & read_byte[1];
+assign second = line_0_match & line_0_block[1];
+assign read_byte[1] = first | second;
+assign first = line_0_valid_match & read_byte[2];
+assign second = line_0_match & line_0_block[2];
+assign read_byte[2] = first | second;
+assign first = line_0_valid_match & read_byte[3];
+assign second = line_0_match & line_0_block[3];
+assign read_byte[3] = first | second;
+assign first = line_0_valid_match & read_byte[4];
+assign second = line_0_match & line_0_block[4];
+assign read_byte[4] = first | second;
+assign first = line_0_valid_match & read_byte[5];
+assign second = line_0_match & line_0_block[5];
+assign read_byte[5] = first | second;
+assign first = line_0_valid_match & read_byte[6];
+assign second = line_0_match & line_0_block[6];
+assign read_byte[6] = first | second;
+assign first = line_0_valid_match & read_byte[7];
+assign second = line_0_match & line_0_block[7];
+assign read_byte[7] = first | second;
+assign first = line_3_valid_match & read_byte[0];
+assign second = line_3_match & line_3_block[0];
+assign read_byte[0] = first | second;
+assign first = line_3_valid_match & read_byte[1];
+assign second = line_3_match & line_3_block[1];
+assign read_byte[1] = first | second;
+assign first = line_3_valid_match & read_byte[2];
+assign second = line_3_match & line_3_block[2];
+assign read_byte[2] = first | second;
+assign first = line_3_valid_match & read_byte[3];
+assign second = line_3_match & line_3_block[3];
+assign read_byte[3] = first | second;
+assign first = line_3_valid_match & read_byte[4];
+assign second = line_3_match & line_3_block[4];
+assign read_byte[4] = first | second;
+assign first = line_3_valid_match & read_byte[5];
+assign second = line_3_match & line_3_block[5];
+assign read_byte[5] = first | second;
+assign first = line_3_valid_match & read_byte[6];
+assign second = line_3_match & line_3_block[6];
+assign read_byte[6] = first | second;
+assign first = line_3_valid_match & read_byte[7];
+assign second = line_3_match & line_3_block[7];
+assign read_byte[7] = first | second;

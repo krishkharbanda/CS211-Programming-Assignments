@@ -1,0 +1,62 @@
+Not enough stock of SAWAYAMA
+Not enough stock of Charli
+Current stock of 1000 gecs: 10
+Not enough stock of Heaven or Las Vegas
+Not enough stock of 1000 gecs
+Not enough stock of SAWAYAMA
+Not enough stock of 1000 gecs
+Not enough stock of 10,000 gecs
+Not enough stock of 10,000 gecs
+Not enough stock of 10,000 gecs
+Not enough stock of Mezzanine
+Resizing the table from 16 to 32
+Current stock of Mezzanine: 4
+Current stock of Charli: 128
+Not enough stock of KiCk i
+Not enough stock of SAWAYAMA
+Not enough stock of Chromatica
+Not enough stock of In Utero
+Not enough stock of 10,000 gecs
+Not enough stock of Mezzanine
+Not enough stock of Icedancer
+Current stock of Fossora: 14
+Not enough stock of SAWAYAMA
+Current stock of Fossora: 14
+Not enough stock of 1000 gecs
+Current stock of 1000 gecs: 26
+Current stock of Mezzanine: 61
+Not enough stock of Icedancer
+Not enough stock of Heaven or Las Vegas
+Not enough stock of Fossora
+Not enough stock of KiCk i
+Not enough stock of 1000 gecs
+Resizing the table from 32 to 64
+Current stock of Charli: 152
+Not enough stock of Dummy
+No stock of Random Access Memories
+Not enough stock of 10,000 gecs
+Not enough stock of Icedancer
+Not enough stock of Icedancer
+Not enough stock of In Utero
+Not enough stock of Dummy
+-------- FINAL COUNTS --------
+Charli: 199
+SAWAYAMA: 73
+Heaven or Las Vegas: 39
+1000 gecs: 50
+Mezzanine: 62
+10,000 gecs: 1
+Fossora: 31
+Icedancer: 5
+KiCk i: 55
+Chromatica: 138
+In Utero: 7
+Dummy: 9
+The OOZ: 40
+6 Feet Beneath The Moon: 14
+KiCk ii: 23
+Homogenic: 82
+KiCk iiii: 32
+Future Nostalgia: 41
+Random Access Memories: 9
+------------------------------

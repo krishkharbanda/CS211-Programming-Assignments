@@ -1,0 +1,28 @@
+Not enough stock of Dummy
+Current stock of Dummy: 14
+Not enough stock of Dummy
+Not enough stock of Dummy
+Not enough stock of Dummy
+Not enough stock of Dummy
+Resizing the table from 4 to 8
+Not enough stock of KiCk iiii
+Not enough stock of KiCk iiii
+Not enough stock of Dummy
+Not enough stock of KiCk iiii
+Current stock of Vespertine: 14
+Not enough stock of Dummy
+Resizing the table from 8 to 16
+Not enough stock of KiCk iiii
+Not enough stock of Dummy
+Resizing the table from 16 to 32
+Current stock of 10,000 gecs: 12
+-------- FINAL COUNTS --------
+Dummy: 6
+KiCk iiii: 42
+Vespertine: 13
+Vulnicura: 40
+Voulez-Vous: 78
+1000 gecs: 6
+10,000 gecs: 12
+Charli: 6
+------------------------------

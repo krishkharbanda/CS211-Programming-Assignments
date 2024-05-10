@@ -1,0 +1,33 @@
+4
+RESTOCK 14 Dummy
+SALE 30 Dummy
+SHOW_STOCK 0 Dummy
+SALE 35 Dummy
+SALE 15 Dummy
+SALE 40 Dummy
+SALE 31 Dummy
+SALE 8 Dummy
+RESTOCK 10 KiCk iiii
+RESTOCK 47 Vespertine
+SALE 37 KiCk iiii
+SALE 22 KiCk iiii
+SALE 15 Dummy
+SALE 33 Vespertine
+SALE 33 KiCk iiii
+SHOW_STOCK 0 Vespertine
+SALE 9 Dummy
+RESTOCK 32 KiCk iiii
+RESTOCK 27 Vulnicura
+RESTOCK 38 Vulnicura
+SALE 47 KiCk iiii
+RESTOCK 46 Voulez-Vous
+RESTOCK 28 1000 gecs
+SALE 22 1000 gecs
+RESTOCK 18 10,000 gecs
+SALE 1 Vespertine
+SALE 6 10,000 gecs
+SALE 25 Vulnicura
+SALE 37 Dummy
+RESTOCK 6 Charli
+SHOW_STOCK 0 10,000 gecs
+RESTOCK 32 Voulez-Vous
